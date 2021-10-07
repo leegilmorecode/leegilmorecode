@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Lee, a Serverless Advocate, AWS Community Builder, Principal Developer, Cloud Architect, Mentor and Blogger 🚀</h1>
+![profile-header](./docs/images/github-profile-header.png)
+
+<h1 align="center">Hey, I'm Lee, a Serverless Advocate, AWS Community Builder, Cloud Architect, Mentor and Blogger 🚀</h1>
 <h3 align="center">A passion for all things Serverless on AWS - Go follow me using the links below</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leegilmorecode&label=Profile%20views&color=0e75b6&style=flat" alt="leegilmorecode" /> </p>
