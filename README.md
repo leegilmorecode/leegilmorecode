@@ -1,13 +1,15 @@
 ![profile-header](./docs/images/github-profile-header.png)
 
-<h1 align="center">Hey, I'm Lee, a Serverless Advocate, AWS Community Builder, Cloud Architect, Mentor and Blogger 🚀</h1>
+<h1 align="center">Hey, I'm Lee, a Serverless Advocate, AWS Community Builder, Global Enterprise Serverless Architect (GESA), Mentor and Blogger 🚀</h1>
 <h3 align="center">A passion for all things Serverless on AWS - Go follow me using the links below</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leegilmorecode&label=Profile%20views&color=0e75b6&style=flat" alt="leegilmorecode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/leejamesgilmore" target="blank"><img src="https://img.shields.io/twitter/follow/leejamesgilmore?logo=twitter&style=for-the-badge" alt="leejamesgilmore" /></a> </p>
 
-- 💬 Ask me about **Serverless on AWS**
+For all of my content please use this link: https://leejamesgilmore.medium.com/serverless-content-46ef5b562d8e
+
+- 💬 Ask me anything about **Serverless on AWS**
 
 - 📫 How to reach me **https://linktr.ee/leegilmore**
 
