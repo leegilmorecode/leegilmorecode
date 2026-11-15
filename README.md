@@ -1,4 +1,4 @@
-![profile-header](./docs/images/github-profile-header.png)
+![profile-header](./docs/images/github-banner@2x.png)
 
 <h1 align="center">AWS Serverless Hero empowering others through expert knowledge | AI | Architect | Speaker | Engineering | Cloud Native</h1>
 <h3 align="center">A passion for all things Serverless on AWS - Go follow me using the links below</h3>
